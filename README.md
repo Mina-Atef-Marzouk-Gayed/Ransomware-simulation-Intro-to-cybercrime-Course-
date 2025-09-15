@@ -1,0 +1,2 @@
+# Ransomware-simulation-Intro-to-cybercrime-Course-
+In this project we created a ransomware simulation: file encryption and decryption, and learned ransomware basics — symmetric and asymmetric cryptography (DES, AES, RSA). Simple educational lab tool for defensive learning; do not use on unauthorized systems. Use only in controlled labs with explicit permission. Follow laws and institutional policy.
