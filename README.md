@@ -8,9 +8,12 @@
 * [ransomwareClick.py](ransomwareClick.py) — trigger-based encryption demo  
 * [decryption.py](decryption.py) — matching decryption utility  
 * [Ransomware.pptx](Ransomware.pptx) — presentation  
-* [Ransomware Simulation.mp4](Ransomware%20Simulation.mp4) — demo video  
-* [Logic Bomb Ransomware.mp4](Logic%20Bomb%20Ransomware.mp4) — demo video
 
+## Demo Videos for Ransomware Simulation (File Encryption & Decryption)
+
+https://github.com/user-attachments/assets/8dd48edc-e2d2-4301-a8a8-c98029d68998  
+
+https://github.com/user-attachments/assets/6480b175-86c1-4331-bad6-36f347f068f7  
 
 ## Purpose
 
